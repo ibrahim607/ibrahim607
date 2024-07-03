@@ -6,5 +6,5 @@ Skills: HTML / CSS / JS / NODEJS / REACT / FLUTTER / PHP / MySQL / MongoDB
 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/ibrahim-yasin-23501a250//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/1brah1m_ya//)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/ibrahim-yasin-23501a250//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>]([https://www.instagram.com/https://www.instagram.com/1brah1m_ya//](https://www.instagram.com/1brah1m_ya?igsh=MWlreTAzaXVxMHVxbA==))  
 
