@@ -2,7 +2,7 @@
 #### fullstack web developer
 I'm ibrahim from Egypt, I'm an undergraduate full stack web developer, I've learned front end frameworks like REACT, I also learned backend frameworks and languages like PHP , NODEJS , MySQL, MongoDB as well as flutter development.
 
-Skills: HTML / CSS / JS / NODEJS / REACT / FLUTTER / PHP / MySQL / MongoDB
+Skills: HTML / CSS / TAILWIND / BOOTSTRAP / JS / NODEJS / REACT / NEXTJS / FLUTTER / PHP / MySQL / MongoDB   
 
 
 
