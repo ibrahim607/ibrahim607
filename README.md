@@ -1,8 +1,12 @@
 ### Hi there 👋, ibrahim yasin
 #### fullstack web developer
-I'm ibrahim from Egypt, I'm an undergraduate full stack web developer, I've learned front end frameworks like REACT, I also learned backend frameworks and languages like PHP , NODEJS , MySQL, MongoDB as well as flutter development.
+Hi there 👋, I'm Ibrahim Yasin
+Full-Stack Web Developer
 
-Skills: HTML / CSS / TAILWIND / BOOTSTRAP / JS / REACT / NEXTJS / FLUTTER / PHP / MySQL  
+I'm Ibrahim, an undergraduate full-stack web developer from Egypt. I specialize in front-end frameworks like React and have extensive experience with back-end technologies and languages, including PHP, Node.js, MySQL, and MongoDB. I also have hands-on expertise in Java, JDBC, and Flutter development.
+
+Skills:
+HTML | CSS | Tailwind | Bootstrap | JavaScript | React | Next.js | Flutter | PHP | MySQL | Java | JDBC 
 
 
 
