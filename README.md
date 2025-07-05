@@ -6,7 +6,7 @@ Full-Stack Web Developer
 I'm Ibrahim, an undergraduate full-stack web developer from Egypt. I specialize in front-end frameworks like React and have extensive experience with back-end technologies and languages, including PHP, Node.js, MySQL, and MongoDB. I also have hands-on expertise in Java, JDBC, and Flutter development.
 
 Skills:
-HTML | CSS | Tailwind | Bootstrap | JavaScript | React | Next.js | Flutter | PHP | MySQL | Java | JDBC 
+HTML | CSS | Tailwind | Bootstrap | Java | JDBC | Spring-boot | JavaScript | React | Next.js | Flutter | PHP | MySQL  
 
 
 
