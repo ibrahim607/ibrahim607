@@ -33,7 +33,3 @@ For my graduation project, Revive, I designed a restaurant-management backend wi
 | Data | PostgreSQL, Redis, Prisma, Supabase |
 | AI and automation | Vercel AI SDK, OpenRouter, Upstash QStash |
 | Infrastructure | Docker, Docker Compose, Kubernetes, CI/CD |
-
-## Connect
-
-[View my work on Fiverr](https://www.fiverr.com/ibrahimyasinn)
