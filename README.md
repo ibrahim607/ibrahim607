@@ -16,7 +16,7 @@ As a full-stack software engineer, I contributed to a real estate CRM built with
 - Developed scheduled WhatsApp follow-ups and event-driven sales automations.
 - Integrated AI with customer WhatsApp messages to create or reschedule reminders and save lead details without overwriting existing information.
 
-These were my contributions within a team product. My Fiverr portfolio includes feature demonstrations.
+These were my contributions within a team product.
 
 ## Java and backend projects
 
